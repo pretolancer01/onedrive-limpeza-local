@@ -1,0 +1,7 @@
+# PowerShell output / local reports
+*.log
+relatorio-*.txt
+
+# Windows Explorer metadata
+Thumbs.db
+desktop.ini
